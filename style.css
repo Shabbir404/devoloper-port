@@ -11,6 +11,10 @@ h1{
 font-size: 40px;
 
 }
+h2{
+font-size: 35px;
+
+}
 span{
 
 color: orange; font-size: 45px;
@@ -94,14 +98,56 @@ background-repeat: no-repeat;
 background-position: right;
 }
 
-.half-widht h3{
+.experiance-item h3{
 
 color: rgb(255, 123, 0);
 
 }
 
+.experiance-item{
+width: 40%;
+box-shadow: 10px 10px 40px rgb(163, 158, 158);
+margin-left: 5%;
+margin-right:5% ;
+padding-left: 30px;
+padding-bottom: 50px;
+padding-right: 30px;
+border-radius: 20px;
 
 
+}
+section.experiance {
+    margin-bottom: 57px;
+
+}
+
+.experiance{
+
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;
+}
+
+#web-dev-expire{
+
+    border-left: 7px solid ;
+    border-image: linear-gradient( rgb(74, 190, 236) , rgb(142, 227, 235));
+    
+    border-image-slice: 1;
 
 
+}
 
+#web-experiance{
+border-left: 7px solid ;
+border-image: linear-gradient( blue,skyblue);
+
+border-image-slice: 1;
+
+}
+
+footer p{
+
+text-align: center;
+color: #6c6e6e;
+}
