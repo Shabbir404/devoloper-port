@@ -51,4 +51,42 @@ background-repeat: no-repeat;
 
 }
 
+.again-banner img{
 
+    
+        width: 95%; 
+        margin-left: 35px;
+    
+
+}
+.again-banner{
+
+width: 50%;
+padding-right: 5%;
+
+}
+.again-banner h1{
+
+color: rgb(224, 169, 66);
+
+
+}
+.link-2nd{
+
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(     rgb(74, 190, 236) , rgb(142, 227, 235)                  );
+    
+    padding: 7.5px;
+    border-radius: 8px;
+    
+}
+.again-banner{
+
+background-image: url(dream-bg.png);
+background-repeat: no-repeat;
+
+background-position: right;
+}
