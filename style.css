@@ -16,16 +16,16 @@ span{
 color: orange; font-size: 45px;
 
 }
+.flex-banner{
 
-section{
-
-display: flex;
-
-}
+    display: flex;
+    
+    }
+    
 .half-widht{
 
     width: 50%;
-padding-left: 5%;
+padding-left: 5%; 
 }
 .half-widht img{
 
@@ -52,6 +52,9 @@ background-repeat: no-repeat;
 }
 
 .thirdbanner img{
+
+
+
 
     
         width: 92%; 
@@ -90,3 +93,15 @@ background-repeat: no-repeat;
 
 background-position: right;
 }
+
+.half-widht h3{
+
+color: rgb(255, 123, 0);
+
+}
+
+
+
+
+
+
